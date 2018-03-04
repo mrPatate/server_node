@@ -2,4 +2,6 @@ Simple http server to run in an arduino based radar project
 (see also this github)
 
 use node.js framework and code from d3.js repository
-
+you need to install nodejs and npm
+use npm install to install dependencies and finally run
+#node server.js
